@@ -20,8 +20,8 @@ URL Shortener is a simple Python application built with Tkinter that allows user
 
 ## Screenshots
 
-![Screenshot 1](screenshots/url_s_1.png)
-![Screenshot 2](screenshots/url_s_3.png)
+![Screenshot 1](screenshot/url_s_1.png)
+![Screenshot 2](screenshot/url_s_3.png)
 
 ## Dependencies
 
