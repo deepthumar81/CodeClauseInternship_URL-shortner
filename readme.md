@@ -4,7 +4,7 @@ Sure! Below is a sample README file for your URL Shortener code that you can upl
 
 # URL Shortener
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot/url_s_2.png)
 
 URL Shortener is a simple Python application built with Tkinter that allows users to shorten long URLs using the TinyURL service.
 
@@ -20,8 +20,8 @@ URL Shortener is a simple Python application built with Tkinter that allows user
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/url_s_1.png)
+![Screenshot 2](screenshots/url_s_3.png)
 
 ## Dependencies
 
