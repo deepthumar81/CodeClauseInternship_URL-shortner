@@ -28,7 +28,11 @@ URL Shortener is a simple Python application built with Tkinter that allows user
     <source src="screenshot/url_s_video.mp4" type="video/mp4">
   </video>
 </figure>
+[![Watch the video]()](screenshot/url_s_video.mp4)
 
+
+
+![Watch the video]()
 ## Dependencies
 
 - Python 3.x
